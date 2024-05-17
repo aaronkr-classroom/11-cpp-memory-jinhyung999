@@ -1,0 +1,2 @@
+This is a datat file.
+Hello world!
